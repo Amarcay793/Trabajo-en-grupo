@@ -1,3 +1,3 @@
 # Trabajo-en-grupo
 Trabajo realizado por Walewska y Ángeles -
-Nuestra página: file:///C:/Users/Usuario/Desktop/Trabajo-en-grupo-main/index.html
+Nuestra página: https://amarcay793.github.io/Trabajo-en-grupo/
